@@ -1,0 +1,19 @@
+--------------------------------------------
+----------------| De MODA |----------------
+          Av. Los Chancas
+       Sta Anita - Lima -Peru
+                          Hora: 22:00:54
+
+DNI del cliente:   3277472
+Nombre del cliente: Cuellar, Andrew
+Fecha: 2021-07-13
+
+
+Subtotal : S/62.0
+IGV(18%) : S/11.2
+Pago Total : S/50.84
+--------------------------------------------
+Estimado cliente, encaso de cualquier tipo
+de reclamos acercarse a la tienda con su 
+comprobante de compra y se le atendera con
+mucho gusto
